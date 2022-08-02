@@ -1,8 +1,12 @@
-# vnetod
+> **NOTE**: All the code is stored
+> [here](https://git.pleshevski.ru/pleshevskiy/vnetod).
 
-> All the code is stored [here](https://git.pleshevski.ru/pleshevskiy/vnetod).
+# vnetod*
 
-Dotenv state switcher
+<small><strong>*</strong> inverted word "dotenv"</small>
+
+Are you still switching sections in your dotenv file manually? Try this dotenv
+section switcher!
 
 You can create many states in your `.env` and switch between them.
 
