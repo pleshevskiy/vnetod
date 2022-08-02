@@ -88,6 +88,13 @@ docker run --rm -it -v $PWD:/data pleshevskiy/vnetod --help
 nix run git+https://git.pleshevski.ru/pleshevskiy/vnetod -- --help
 ```
 
+# Contact me
+
+- [send feedback](https://github.com/pleshevskiy/vnetod/discussions)
+- [make an issue](https://github.com/pleshevskiy/vnetod/issues)
+- matrix: @pleshevskiy:matrix.org
+- email: dmitriy@ideascup.me
+
 # License
 
 GNU General Public License v3.0 or later
